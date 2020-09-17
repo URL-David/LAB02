@@ -1,0 +1,3 @@
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\Debug\Lab02_David_Rodríguez_1164619.vcxprojAssemblyReference.cache
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\Debug\Lab02DavidRodríguez1164619.HVST.resources
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\Debug\Lab02_David_Rodríguez_1164619.vcxproj.GenerateResource.cache

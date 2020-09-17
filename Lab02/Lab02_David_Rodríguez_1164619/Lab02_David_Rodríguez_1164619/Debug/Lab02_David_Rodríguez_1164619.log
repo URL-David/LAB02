@@ -1,0 +1,6 @@
+﻿  HVST.cpp
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\HVST.h(226,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\HVST.h(381,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Lab02_David_Rodríguez_1164619\HVST.cpp(8,15): warning C4551: la llamada a la función no tiene lista de argumentos
+  HVST.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Lab02_David_Rodríguez_1164619.vcxproj -> D:\darcz\Documents\Programas\Lab02\Lab02_David_Rodríguez_1164619\Debug\Lab02_David_Rodríguez_1164619.exe
